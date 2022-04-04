@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T1m0n31r0
 - 👀 I’m interested in Development ans Technology
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas in UNISUL.
+- 🌱 I’m currently learning "Análise e Desenvolvimento de Sistemas" in UNISUL, and "FullStack Developer" in ALURA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
